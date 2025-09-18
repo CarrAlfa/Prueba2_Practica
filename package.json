@@ -1,0 +1,25 @@
+{
+  "name": "prueba2_practica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "Prueba numero2", 
+"test:report": "Prueba numero2 --reporter=html && playwright show-report"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarrAlfa/Prueba2_Practica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CarrAlfa/Prueba2_Practica/issues"
+  },
+  "homepage": "https://github.com/CarrAlfa/Prueba2_Practica#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0"
+  }
+}
